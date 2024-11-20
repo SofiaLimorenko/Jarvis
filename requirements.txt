@@ -1,0 +1,8 @@
+speech_recognition
+pyttsx3
+tkinter
+g4f
+asyncio
+platform
+botogram
+dotenv
