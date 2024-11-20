@@ -7,7 +7,7 @@ load_dotenv()
 
 asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
 
-bot = botogram.create('7705678590:AAFeAMtbURvHuadMT_RGRD2RtrwdaFVYcgc')
+bot = botogram.create('YOUR_API_TOKEN')
 
 def chatgpt_request(prompt: str) -> str:
     client = Client()
