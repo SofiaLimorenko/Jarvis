@@ -6,3 +6,6 @@ asyncio
 platform
 botogram
 dotenv
+requests
+bs4
+os
